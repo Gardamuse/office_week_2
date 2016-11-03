@@ -1,0 +1,37 @@
+<b>Update 2015-05-25: Office Week 2.1 A Growing Company</b>
+<ul> 
+<li>Massively improved performance. Now doing things only when it's needed instead of all the time. This will probably solve some weird problems that was occurring.</li>
+<li>Added option to study. This will increase your IQ, but will cost more money the smarter you already are. Beware, bimbos do not study very well.</li>
+<li>Heavily increased salary from work. You will however now get less money the more horny you are.</li>
+<li>The longer you are an employee at Bimnocorp, the higher will now your sex drive be, making you horny faster over time.</li>
+<li>Can now buy stockings. Having stockings will increase the amount of money you get from having sex. (Wearing them is optional.)</li>
+<li>Upgraded backgrounds a bit.</li>
+<li>Slightly changed UI.</li>
+<li>Added a short background story to opening screen.</li>
+</ul>
+<b>Update 2015-06-13: Office Week 2.2: Inflated Prices</b>
+<ul>
+<li>Added hypnosis. This makes Katherine more satisfied (most likely), but slightly increases how fast she gets horny.</li>
+<li>Remapped keyboard shortcuts.</li>
+<li>Added keyboard shortcut for toggling stockings (T).</li>
+<li>Added button for toggling between metric and imperial units.</li>
+<li>Rewrote all narration to be in third-person about Katherine rather than referring to "you".</li>
+<li>Fleshed out existing narration.</li>
+<li>Added events that can occur randomly or when a requirement is met. These events will show unique narration texts. They may also influence Katherine in ways often hinted at in aforementioned text.</li>
+<li>Rebalanced prices and increased money-scale.</li>
+<li>Rebalanced iq-silicone-potion ratios to be more as intended. You can now buy less silicone/potions, but they have more influence.</li>
+</ul>
+
+Office Week 2.2: Inflated Prices
+
+Added hypnosis. This makes Katherine (probably) more satisfied, but slightly increases how fast she gets horny.
+Remapped keyboard shortcuts.
+Added keyboard shortcut for toggling stockings (T).
+Added button for toggling between metric and imperial units.
+
+Rewrote all narration to be in third-person about Katherine rather than referring to "you".
+Fleshed out existing narration.
+Added events that can occur randomly or when a requirement is met. These events will show unique narration texts. They may also influence Katherine in ways often hinted at in corresponding narrative.
+
+Rebalanced prices and increased money-scale.
+Rebalanced iq-silicone-potion ratios to be more as intended. You can now buy less silicone/potions, but they have more influence.
